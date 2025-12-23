@@ -1,0 +1,1 @@
+me_action = "git 생성 후 clone과 push"
